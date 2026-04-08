@@ -58,8 +58,7 @@ pip install -r requirements.txt
 Create a `.env` file in the project root:
 GOOGLE_API_KEY= "your_api_key_here"
 
-### Step 5: Verify Setup
-
+### Step 5: Verify API_KEY
 ```python
 python
 >>> import os
