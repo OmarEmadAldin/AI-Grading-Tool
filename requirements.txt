@@ -1,3 +1,8 @@
 pdfplumber
 pathlib
 io
+anthropic
+json
+fastapi
+uvicorn
+python-dotenv

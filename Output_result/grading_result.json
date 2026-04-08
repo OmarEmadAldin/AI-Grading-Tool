@@ -1,0 +1,15 @@
+{
+  "score": 4,
+  "max_score": 5,
+  "feedback": "The student provided a good explanation of the TCP/IP model, accurately naming layers, describing packetization, IP addressing, and encapsulation, but missed the specific role of TCP in reliable delivery.",
+  "missing_points": [
+    "Mentions that TCP provides reliable, ordered delivery using acknowledgements"
+  ],
+  "awarded_points": [
+    "Names the four layers: Application, Transport, Internet, Network Access (Link)",
+    "Explains that data is broken into packets for transmission",
+    "Describes the role of IP addresses in routing packets across networks",
+    "Explains that each layer adds/removes a header (encapsulation/decapsulation)"
+  ],
+  "confidence": 1
+}
