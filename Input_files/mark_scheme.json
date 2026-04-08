@@ -1,0 +1,12 @@
+{
+  "topic": "Computer Science — Networking",
+  "question": "Explain how the TCP/IP model works, including its layers and how data is transmitted.",
+  "max_score": 5,
+  "marking_points": [
+    "Names the four layers: Application, Transport, Internet, Network Access (Link)",
+    "Explains that data is broken into packets for transmission",
+    "Describes the role of IP addresses in routing packets across networks",
+    "Mentions that TCP provides reliable, ordered delivery using acknowledgements",
+    "Explains that each layer adds/removes a header (encapsulation/decapsulation)"
+  ]
+}
